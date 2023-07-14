@@ -10,7 +10,7 @@
 Extension for [Playnite](https://playnite.link).  
 
 ## Informations
-The plugin gets localised (if exist) achievements or add manualy achievements.
+The plugin retrieves localized achievements (if they exist) or allows to manually add achievements.
 
 <a href="https://github.com/Lacro59/playnite-successstory-plugin/blob/master/forum/main_01.jpg?raw=true">
   <picture>
@@ -34,7 +34,7 @@ The plugin gets localised (if exist) achievements or add manualy achievements.
 </a>
 
 With this plugin you can
-* add store's achievements or add manualy achievements
+* add store's achievements or manually add achievements
 * works for GOG, Steam, Origin, Xbox, Epic Games, RPCS3 and RetroAchievements
 * add tag with time to unlock all achievements
 * many user stats 
@@ -48,7 +48,7 @@ You can help to translate the extensions do different languages via the project 
 
 ## Custom theme integration
 The extension contains elements that can fit into a custom theme.  
-[More informations](https://github.com/Lacro59/playnite-successstory-plugin/wiki/Addition-in-a-custom-theme)
+[More information](https://github.com/Lacro59/playnite-successstory-plugin/wiki/Addition-in-a-custom-theme)
 
 ## More
 Remember to support [Playnite](https://www.patreon.com/playnite) and [Freepik](https://www.flaticon.com/authors/freepik).  
